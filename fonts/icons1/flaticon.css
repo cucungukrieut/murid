@@ -1,0 +1,169 @@
+@font-face {
+	font-family: "Flaticon";
+	src: url("flaticon.eot");
+	src: url("flaticon.eot#iefix") format("embedded-opentype"),
+	url("flaticon.woff") format("woff"),
+	url("flaticon.ttf") format("truetype"),
+	url("flaticon.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+	font-family: Flaticon;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}.flaticon-attachment:before {
+	content: "\e000";
+}
+.flaticon-battery status23:before {
+	content: "\e001";
+}
+.flaticon-briefcase84:before {
+	content: "\e002";
+}
+.flaticon-bug22:before {
+	content: "\e003";
+}
+.flaticon-check84:before {
+	content: "\e004";
+}
+.flaticon-circle162:before {
+	content: "\e005";
+}
+.flaticon-circle163:before {
+	content: "\e006";
+}
+.flaticon-circles46:before {
+	content: "\e007";
+}
+.flaticon-clock234:before {
+	content: "\e008";
+}
+.flaticon-compact disc4:before {
+	content: "\e009";
+}
+.flaticon-connection79:before {
+	content: "\e00a";
+}
+.flaticon-curve arrow26:before {
+	content: "\e00b";
+}
+.flaticon-curved arrow2:before {
+	content: "\e00c";
+}
+.flaticon-curved arrow3:before {
+	content: "\e00d";
+}
+.flaticon-dark8:before {
+	content: "\e00e";
+}
+.flaticon-document47:before {
+	content: "\e00f";
+}
+.flaticon-document48:before {
+	content: "\e010";
+}
+.flaticon-drink174:before {
+	content: "\e011";
+}
+.flaticon-drops10:before {
+	content: "\e012";
+}
+.flaticon-happy5:before {
+	content: "\e013";
+}
+.flaticon-health care6:before {
+	content: "\e014";
+}
+.flaticon-lightning10:before {
+	content: "\e015";
+}
+.flaticon-lights4:before {
+	content: "\e016";
+}
+.flaticon-messages3:before {
+	content: "\e017";
+}
+.flaticon-messages5:before {
+	content: "\e018";
+}
+.flaticon-musical142:before {
+	content: "\e019";
+}
+.flaticon-network19:before {
+	content: "\e01a";
+}
+.flaticon-note10:before {
+	content: "\e01b";
+}
+.flaticon-pedestrian1:before {
+	content: "\e01c";
+}
+.flaticon-plus sign18:before {
+	content: "\e01d";
+}
+.flaticon-poker9:before {
+	content: "\e01e";
+}
+.flaticon-print79:before {
+	content: "\e01f";
+}
+.flaticon-questions5:before {
+	content: "\e020";
+}
+.flaticon-radios4:before {
+	content: "\e021";
+}
+.flaticon-read:before {
+	content: "\e022";
+}
+.flaticon-right arrow56:before {
+	content: "\e023";
+}
+.flaticon-sencond:before {
+	content: "\e024";
+}
+.flaticon-shopping store7:before {
+	content: "\e025";
+}
+.flaticon-stars54:before {
+	content: "\e026";
+}
+.flaticon-stars55:before {
+	content: "\e027";
+}
+.flaticon-symbol29:before {
+	content: "\e028";
+}
+.flaticon-text lines7:before {
+	content: "\e029";
+}
+.flaticon-time82:before {
+	content: "\e02a";
+}
+.flaticon-transport195:before {
+	content: "\e02b";
+}
+.flaticon-tv screen4:before {
+	content: "\e02c";
+}
+.flaticon-up arrows14:before {
+	content: "\e02d";
+}
+.flaticon-video camera13:before {
+	content: "\e02e";
+}
+.flaticon-video player13:before {
+	content: "\e02f";
+}
+.flaticon-wireless51:before {
+	content: "\e030";
+}
+.flaticon-wireless52:before {
+	content: "\e031";
+}
+.flaticon-zoom in:before {
+	content: "\e032";
+}

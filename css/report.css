@@ -1,0 +1,374 @@
+@charset "utf-8";
+/* CSS Document */
+
+/**
+* Desciption:	CSS file for admin theme "erotica".
+*				Default themes for enrollment system.
+* Author:		Joken E, Villanueva
+* Date Created:	December 26, 2012
+* Revised by:
+*/
+
+/*Global reset*/
+* {
+	padding: 0;
+	margin: 0;
+}
+
+h1, h2, h3, h4, h5, h6, p, pre, blockquote, label, ul, ol, dl, fieldset, address { margin:0.5em 0; } 
+li, dd { margin-left:1em; } 
+fieldset { padding: .5em; }
+/*Global reset*/
+
+body {
+	background-color: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #333333;
+}
+
+
+#titlebar_m {
+	/*background: url(../images/j_header_middle.png) repeat-x;*/
+	height: 52px;
+	border-bottom: 1px solid #98CD36;
+	overflow: hidden;
+}
+
+
+#titlebar_r {
+?/*ackground: url(../images/j_header_r.png) top right no-repeat;*/
+	height: 100%;
+	overflow: hidden;
+}
+
+#titlebar_l {
+/*	background: url(../images/j_header_r.png) top left no-repeat;
+	*/height: 100%;
+	overflow: hidden;
+
+}
+
+#titlebar_frame {
+	height: 100%;
+}
+
+#system-title {
+	color: #FFFFFF;
+	font-size: 18px;
+	font-weight: bold;
+	text-indent: 70px;
+}
+/* -------End here-----*/
+
+#menubar {
+	background: #F1FDDB url(../image/menu_bar_bg.jpg)left center no-repeat;
+
+	
+	border-bottom: 1px solid #E0E3CC;
+	height: 26px;
+	color: #333333;
+}
+
+
+#module-name {
+	color: #FB8E2D;
+	font-size: 22px;
+	font-weight: bold;
+	margin: 7px 15px;
+}
+
+#module-name small {
+	color: #FACC2E;
+}
+
+#content {
+	margin: 0px 15px;
+	margin-bottom: 20px;
+}
+
+#content2 {
+	margin: 6px;
+}
+.app_button {
+	border: 1px solid #00C;
+/*	background: url(searchbutton.png) repeat-x;
+*/	text-align: center;
+	color: #03F;
+	padding: 4px 8px;
+	margin-left: 1px;
+	
+}
+/*----Table-----*/
+
+table.app_table {
+	border-collapse: collapse;
+	border-spacing: 0px;
+	width: 70%;
+	border: 0px solid #E0E0E0;
+}
+/*
+table.app_table th {
+	height: 25px;
+	background: url(../image/table_header_bg.jpg) repeat-x;
+	color: #FFFFFF;
+	white-space: nowrap;
+}*/
+th { 
+	height: 25px;
+	background: url(../images/table_head_bg.jpg) repeat-x;
+	 color:#FFFFFFF;
+	 white-space:nowrap;
+	 }
+.odd_row{background-color: #EEE;}
+.eve_row{background-color: #FFF;}
+
+/*
+th { background-color: #999;}
+.odd_row { background-color: #EEE; }
+.even_row { background-color: #FFF; }
+*/
+
+#app_footer {
+	margin: 10px 0px;
+	/*padding: 3px 0px;*/
+	background-color: #F1F1F1;
+	background-color: #DAEAF8;
+	overflow: hidden;
+	color: #666666;
+}
+
+#app_footer #top_left {
+	background: url(../images/footer_top_left_bg.jpg) top left no-repeat;
+}
+
+#app_footer #top_left #bottom_left {
+	background: url(../images/footer_bottom_left_bg.jpg) bottom left no-repeat;
+}
+
+#app_footer #top_left #bottom_left #top_right {
+	background: url(../images/footer_top_right_bg.jpg) top right no-repeat;
+}
+
+#app_footer #top_left #bottom_left #top_right #bottom_right {
+	background: url(../images/footer_bottom_right_bg.jpg) bottom right no-repeat;
+	padding: 5px 0px;
+	text-align: center;
+}
+
+#top_left, #bottom_left, #top_right, #bottom_right {
+	height: 100%;
+	overflow: hidden;
+}
+
+/*----------*/
+
+table.app_table th .app_sort_asc_icon {
+	background: url(../image/sort_asc.png) top center no-repeat;
+	height: 22px;
+	line-height: 21px;
+}
+
+table.app_table th .app_sort_desc_icon {
+	background: url(../image/sort_desc.png) top center no-repeat;
+	height: 22px;
+	line-height: 21px;
+}
+
+table.app_table th .app_sort_asc_icon a, table.app_table th .app_sort_desc_icon a, table.app_table th a {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+table.app_table th a:hover {
+	text-decoration: underline;
+}
+
+/*----------*/
+
+
+table.app_table th ._title {
+	height: 20px;
+	background: url(../images/icon-16-search.png) left center no-repeat;
+	margin-left: 5px;
+	line-height: 20px;
+	text-indent: 20px;
+	text-align: left;
+}
+
+table.app_table td.form {
+	background-color: #F7F7F7;
+	padding: 3px;
+}
+
+td._label {
+	text-align: right;
+	padding-right: 8px;
+}
+
+td._counter {
+	color: #999999;
+}
+
+tr.row1 {
+	background-color: #F2F2F2;
+}
+
+tr.row0 {
+	background-color: #F7F7F7;
+}
+
+tr.row1 td, tr.row0 td {
+	border-top: 1px solid #FFFFFF;
+	padding: 3px 0px;
+}
+
+a.app_listitem_key {
+	color:#03F;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.app_button_container_86 {
+	width: 86px;
+}
+
+.app_button_container_90 {
+	width: 90px;
+}
+
+.app_button_container_100 {
+	width: 100px;
+}
+
+.app_button_container_86, .app_button_container_90, .app_button_container_100 {
+	height: 21px;
+	background: url(../image/task_button_bg.jpg) repeat-x;
+	overflow: hidden;
+}
+
+.app_button_container_86 .app_button_left, .app_button_container_90 .app_button_left, .app_button_container_100 .app_button_left {
+	height: 100%;
+	background: url(../image/task_button_left_bg.jpg) top left no-repeat;
+	overflow: hidden;
+}
+
+.app_button_container_86 .app_button_right, .app_button_container_90 .app_button_right, .app_button_container_100 .app_button_right {
+	height: 100%;
+	background: url(../image/task_button_right_bg.jpg) top right no-repeat;
+	overflow: hidden;
+}
+.app_button_container_86 a, .app_button_container_90 a, .app_button_container_100 a {
+	display: block;
+	text-decoration: none;
+	color: #709922;
+	line-height: 20px;
+	text-align: center;
+}
+
+
+.app_button2_container {
+	height: 21px;
+	width: 100px;
+	background: url(../image/task_button_bg.jpg) repeat-x;
+	overflow: hidden;
+}
+
+.app_button2_container .app_button2_left {
+	height: 100%;
+	background: url(../image/task_button_left_bg.jpg) top left no-repeat;
+	overflow: hidden;
+}
+.app_button2_container .app_button2_right {
+	height: 100%;
+	background: url(../image/task_button_right_bg.jpg) top right no-repeat;
+	overflow: hidden;
+	text-align: center;
+}
+.app_button2_container .app_button2 {
+	background: #FFFFFF url(../image/task_button2_bg.jpg) repeat-x;
+	border: 0px solid #FFFFFF;
+	color: #709922;
+	font-size: 11px;
+	font-family: Arial, Helvetica, sans-serif;
+	padding: 1px 0px;
+	width: 94px;
+	margin: 0 auto;
+	margin-top: 1px;
+	cursor: pointer;
+}
+
+table.app_listing {
+	border-collapse: collapse;
+	border-spacing: 0px;
+	border: 0px  #CCCCCC;
+	width: 90%;
+	margin-top: 12px !important;
+	/*margin-left: 2px !important;
+	margin-left: 0px;*/
+}
+/*--Table App_listing--*/
+table.app_listing th {
+	height: 27px;
+/*	background: url(../images/table_head_bg.jpg)  repeat-x;
+	*/
+	background:none;
+	/*color: #484848;*/
+/*	border-bottom: 0px solid #A8A8A8;*/
+	color:#333;
+	/*padding: 0px 3px;*/
+} 
+
+
+
+table.app_listing tr {
+/*	border-top: 0px  #CCCCCC;*/
+}
+
+table.app_listing td {
+	padding: 3px 3px;
+/*	border-top: 0px #CCCCCC;*/
+}
+
+table.app_listing td.counter {
+/*	color: #777777;*/
+}
+
+table.app_listing tr.row0 {
+/*	background-color: #FDFDFD;*/
+}
+
+table.app_listing tr.row1 {
+/*	background-color: #F8F8F8;*/
+}
+
+table.app_listing tr.foot {
+	height: 25px;
+/*	background-color: #E5E5E5;*/
+}
+
+table.app_listing td.form {
+	border-top: 0px solid #CCCCCC;
+}
+
+table.app_listing tr.form td {
+	/*padding: 1px 0px;*/
+	padding: 0px 0px;
+}
+table.app_form {
+	border-spacing: 0px;
+	/*border: none;*/
+	width: 100%;
+}
+
+table.app_form td {
+	border: none;
+	padding: 3px 0px;
+}
+
+table.app_form td.label {
+	background-color: #EEEEEE;
+	border-bottom: 0px solid #D8D8D8;
+	border-right: 1px solid #D8D8D8;
+	text-align: right;
+}
