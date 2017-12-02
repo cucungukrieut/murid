@@ -15,5 +15,5 @@
   { "ver": "3.0 - 3.2", "name": "BEIN SPORT 1", "api": "http://103.208.26.43:9981/stream/channelid/1134546665" }, 
   { "ver": "3.0 - 3.2", "name": "BEIN SPORT 2", "api": "http://103.208.26.43:9981/stream/channelid/795029661" },
   { "ver": "3.0 - 3.2", "name": "BEIN SPORT 3", "api": "http://103.208.26.43:9981/stream/channelid/973161754" },
-  { "ver": "3.0 - 3.2", "name": "BEIN SPORT 4", "api": "http://103.208.26.43:9981/stream/channelid/337466736" },
+  { "ver": "3.0 - 3.2", "name": "BEIN SPORT 4", "api": "http://103.208.26.43:9981/stream/channelid/337466736" }
 ] } 
