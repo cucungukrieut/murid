@@ -11,7 +11,7 @@
   { "ver": "4.4", "name": "TRANS TV", "api": "https://livestream-hybrid.akamaized.net/live/smil:transtv.smil/chunklist_b846000.m3u8" }, 
   { "ver": "5.0 - 5.1", "name": "TRANS 7", "api": "https://livestream-hybrid.akamaized.net/live/smil:trans7.smil/chunklist_b846000.m3u8" }, 
   { "ver": "6.0", "name": "INEWS", "api": "http://live.metube.id/tv/channel3000005/index512.m3u8" }, 
-  { "ver": "7.0 - 7.1", "name": "KOMPAS TV", "api": "https://livestream-hybrid.akamaized.net/live/smil:kompastv.smil/chunklist_b846000.m3u8" } 
+  { "ver": "7.0 - 7.1", "name": "KOMPAS TV", "api": "https://livestream-hybrid.akamaized.net/live/smil:kompastv.smil/chunklist_b846000.m3u8" }, 
   { "ver": "3.0 - 3.2", "name": "BEIN SPORT 1", "api": "http://103.208.26.43:9981/stream/channelid/1134546665" }, 
   { "ver": "3.0 - 3.2", "name": "BEIN SPORT 2", "api": "http://103.208.26.43:9981/stream/channelid/795029661" },
   { "ver": "3.0 - 3.2", "name": "BEIN SPORT 3", "api": "http://103.208.26.43:9981/stream/channelid/973161754" },
