@@ -1,6 +1,6 @@
 { "android": [ 
-  { "ver": "105.9 FM", "name": "ARDAN", "api": "http://listento.ardanradio.com:8123/ardan" }, 
-  { "ver": "96.0 FM", "name": "RRI BANDUNG", "api": "http://180.250.80.114:9015/web-rribandungpro1.mp3" },
+  { "ver": "105.9 FM", "name": "RADIO MUSLIM YOGYA", "api": "http://128.199.156.6/;" }, 
+  { "ver": "88.10 FM", "name": "DAMU FM", "api": "http://stream.radiodakwahmustofa.com:8724/;" },
   { "ver": "102.4 FM", "name": "GAJAH MADA", "api": "http://gajahmada.i.streaming.id:8000/live" }, 
   { "ver": "100.9 FM", "name": "SUARA RADIO", "api": "http://stream.suararadio.com:8000/bandung_rakafm_stereo" }, 
   { "ver": "91.60 FM", "name": "INDIKA", "api": "http://103.16.199.47:9160/;" }, 
@@ -17,5 +17,6 @@
   { "ver": "94.3 FM", "name": "RADIO KITA", "api": "http://live.radiosunnah.net/;" },
   { "ver": "102.7 FM", "name": "MQ FM", "api": "http://125.160.17.86:8022/" },
   { "ver": "107.8 FM", "name": "RADIO MUSLIM", "api": "http://128.199.156.6/;stream/1" },
+  { "ver": "Stream", "name": "RADIO ISLAM INTERNASIONAL", "api": "http://listen.radioislam.co.za:8080/radioislam.mp3" },
   { "ver": "1476 AM", "name": "RODJA", "api": "http://live.radiorodja.com/;stream.mp3" }
 ] } 
