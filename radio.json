@@ -1,6 +1,7 @@
 { "android": [ 
   { "ver": "105.9 FM", "name": "RADIO MUSLIM YOGYA", "api": "http://128.199.156.6/;" },
   { "ver": "1476 AM", "name": "RODJA", "api": "http://live.radiorodja.com/;stream.mp3" },
+  { "ver": "Stream", "name": "MQ FM", "api": "http://radio.useetv.com/mqfm-aac" },
   { "ver": "88.10 FM", "name": "DAMU FM", "api": "http://stream.radiodakwahmustofa.com:8724/;" },
   { "ver": "93.7 FM", "name": "GEMA MADINAH", "api": "http://gemamadinah.com:8022/;stream.mp3" }, 
   { "ver": "Stream", "name": "LISTEN QUR'AN", "api": "http://209.58.160.62:8222/;" }, 
