@@ -42,7 +42,7 @@
   { "ver": "Stream", "name": "AL-ATSARY TASIK", "api": "http://209.58.160.62:8192/;stream/1" },
   { "ver": "Stream", "name": "SUARA TAUHID", "api": "http://45.64.98.181:8209/;stream/1" },
   { "ver": "Stream", "name": "ADH-DHIYA", "api": "http://209.58.160.62:11036/;stream/1" },
-  { "ver": "Stream", "name": "AL-ILMU	", "api": "http://128.199.227.213:8026/;stream/1" },
+  { "ver": "Stream", "name": "AL-ILMU", "api": "http://128.199.227.213:8026/;stream/1" },
   { "ver": "Stream", "name": "RADIO ISLAM PEKALONGAN", "api": "http://209.58.160.62:8108/;stream/1" },
   { "ver": "Stream", "name": "RADIO MARHABAN", "api": "http://209.58.160.62:8090/;stream/1" },
   { "ver": "Stream", "name": "AS_SALAM MUJUR", "api": "http://209.58.160.62:1060/;stream/1" },
